@@ -1,5 +1,5 @@
-# Visual-Information-Processing-and-Management
-University project for "Visual Information Processing and Management" course
+# University project for "Visual Information Processing and Management" course
+Visual-Information-Processing-and-Management
 ---
 Here you will find all the material used for the creation of the project. Below is a brief overview of the available notebooks and folders:
 
